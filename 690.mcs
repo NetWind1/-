@@ -1,0 +1,419 @@
+[Header]
+MagicCookie={0b13fe8c-dfe0-40eb-8900-6712719559a7}
+Version=1.0
+[File000]
+Location=F:\PIC project\nantong\5.9  690+TM1721+HT1381+DHT21\Untitled.p1
+Folder=Intermediary
+DeviceName=PIC16F690
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC\9.83\bin\picc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|Untitled.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=31 DB=0 DC=9 DF=0 DD=1 C2=0 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 C9=3
+TraceCmdString=
+DebugOptions=
+[File001]
+Location=F:\PIC project\nantong\690+AD+74HC164   11.10\MAIN.p1
+Folder=Intermediary
+DeviceName=PIC16F690
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC\9.83\bin\picc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|MAIN.c|ADC.c|TIME.c|EEPROM.c|74HC164.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=31 DB=0 DC=9 DF=0 DD=1 C2=0 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 C9=3
+TraceCmdString=
+DebugOptions=
+[File002]
+Location=F:\PIC project\nantong\690+AD+74HC164   11.10\ADC.p1
+Folder=Intermediary
+DeviceName=PIC16F690
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC\9.83\bin\picc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|MAIN.c|ADC.c|TIME.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=31 DB=0 DC=9 DF=0 DD=1 C2=0 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 C9=3
+TraceCmdString=
+DebugOptions=
+[File003]
+Location=F:\PIC project\nantong\690+AD+74HC164   11.10\TIME.p1
+Folder=Intermediary
+DeviceName=PIC16F690
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC\9.83\bin\picc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|MAIN.c|ADC.c|TIME.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=31 DB=0 DC=9 DF=0 DD=1 C2=0 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 C9=3
+TraceCmdString=
+DebugOptions=
+[File004]
+Location=F:\PIC project\nantong\690+AD+74HC164   11.10\EEPROM.p1
+Folder=Intermediary
+DeviceName=PIC16F690
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC\9.83\bin\picc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|MAIN.c|ADC.c|TIME.c|EEPROM.c|74HC164.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=31 DB=0 DC=9 DF=0 DD=1 C2=0 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 C9=3
+TraceCmdString=
+DebugOptions=
+[File005]
+Location=F:\PIC project\nantong\690+AD+74HC164   11.10\74HC164.p1
+Folder=Intermediary
+DeviceName=PIC16F690
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC\9.83\bin\picc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|MAIN.c|ADC.c|TIME.c|EEPROM.c|74HC164.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=31 DB=0 DC=9 DF=0 DD=1 C2=0 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 C9=3
+TraceCmdString=
+DebugOptions=
+[File006]
+Location=F:\PIC project\nantong\5.9  690+TM1721+HT1381+DHT21\690.cof
+Folder=Output
+DeviceName=PIC16F690
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC\9.83\bin\picc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|Untitled.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=31 DB=0 DC=9 DF=0 DD=1 C2=0 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 C9=3
+TraceCmdString=
+DebugOptions=
+[File007]
+Location=F:\PIC project\nantong\5.9  690+TM1721+HT1381+DHT21\690.hex
+Folder=Output
+DeviceName=PIC16F690
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC\9.83\bin\picc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|Untitled.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=31 DB=0 DC=9 DF=0 DD=1 C2=0 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 C9=3
+TraceCmdString=
+DebugOptions=
+[File008]
+Location=F:\PIC project\nantong\5.9  690+TM1721+HT1381+DHT21\690.sym
+Folder=Output
+DeviceName=PIC16F690
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC\9.83\bin\picc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|Untitled.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=31 DB=0 DC=9 DF=0 DD=1 C2=0 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 C9=3
+TraceCmdString=
+DebugOptions=
+[File009]
+Location=F:\PIC project\nantong\5.9  690+TM1721+HT1381+DHT21\690.map
+Folder=Output
+DeviceName=PIC16F690
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC\9.83\bin\picc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|Untitled.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=31 DB=0 DC=9 DF=0 DD=1 C2=0 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 C9=3
+TraceCmdString=
+DebugOptions=
+[File010]
+Location=F:\PIC project\nantong\5.9  690+TM1721+HT1381+DHT21\690.hxl
+Folder=Output
+DeviceName=PIC16F690
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC\9.83\bin\picc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|Untitled.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=31 DB=0 DC=9 DF=0 DD=1 C2=0 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 C9=3
+TraceCmdString=
+DebugOptions=
+[File011]
+Location=F:\PIC project\nantong\5.9  690+TM1721+HT1381+DHT21\startup.lst
+Folder=Output
+DeviceName=PIC16F690
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC\9.83\bin\picc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|Untitled.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=31 DB=0 DC=9 DF=0 DD=1 C2=0 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 C9=3
+TraceCmdString=
+DebugOptions=
+[File012]
+Location=F:\PIC project\nantong\5.9  690+TM1721+HT1381+DHT21\startup.rlf
+Folder=Output
+DeviceName=PIC16F690
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC\9.83\bin\picc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|Untitled.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=31 DB=0 DC=9 DF=0 DD=1 C2=0 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 C9=3
+TraceCmdString=
+DebugOptions=
+[File013]
+Location=F:\PIC project\nantong\5.9  690+TM1721+HT1381+DHT21\doprnt.p1
+Folder=Output
+DeviceName=PIC16F690
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC\9.83\bin\picc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|Untitled.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=31 DB=0 DC=9 DF=0 DD=1 C2=0 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 C9=3
+TraceCmdString=
+DebugOptions=
+[File014]
+Location=F:\PIC project\nantong\5.9  690+TM1721+HT1381+DHT21\doprnt.pre
+Folder=Output
+DeviceName=PIC16F690
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC\9.83\bin\picc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|Untitled.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=31 DB=0 DC=9 DF=0 DD=1 C2=0 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 C9=3
+TraceCmdString=
+DebugOptions=
+[File015]
+Location=F:\PIC project\nantong\5.9  690+TM1721+HT1381+DHT21\690.obj
+Folder=Output
+DeviceName=PIC16F690
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC\9.83\bin\picc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|Untitled.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=31 DB=0 DC=9 DF=0 DD=1 C2=0 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 C9=3
+TraceCmdString=
+DebugOptions=
+[File016]
+Location=F:\PIC project\nantong\5.9  690+TM1721+HT1381+DHT21\690.lst
+Folder=Output
+DeviceName=PIC16F690
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC\9.83\bin\picc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|Untitled.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=31 DB=0 DC=9 DF=0 DD=1 C2=0 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 C9=3
+TraceCmdString=
+DebugOptions=
+[File017]
+Location=F:\PIC project\nantong\5.9  690+TM1721+HT1381+DHT21\690.rlf
+Folder=Output
+DeviceName=PIC16F690
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC\9.83\bin\picc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|Untitled.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=31 DB=0 DC=9 DF=0 DD=1 C2=0 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 C9=3
+TraceCmdString=
+DebugOptions=
+[File018]
+Location=F:\PIC project\nantong\5.9  690+TM1721+HT1381+DHT21\690.sdb
+Folder=Output
+DeviceName=PIC16F690
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC\9.83\bin\picc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|Untitled.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=31 DB=0 DC=9 DF=0 DD=1 C2=0 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 C9=3
+TraceCmdString=
+DebugOptions=
+[File019]
+Location=F:\PIC project\nantong\690+AD+74HC164   11.10\690.cof
+Folder=Output
+DeviceName=PIC16F690
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC\9.83\bin\picc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|MAIN.c|ADC.c|TIME.c|EEPROM.c|74HC164.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=31 DB=0 DC=9 DF=0 DD=1 C2=0 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 C9=3
+TraceCmdString=
+DebugOptions=
+[File020]
+Location=F:\PIC project\nantong\690+AD+74HC164   11.10\690.hex
+Folder=Output
+DeviceName=PIC16F690
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC\9.83\bin\picc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|MAIN.c|ADC.c|TIME.c|EEPROM.c|74HC164.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=31 DB=0 DC=9 DF=0 DD=1 C2=0 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 C9=3
+TraceCmdString=
+DebugOptions=
+[File021]
+Location=F:\PIC project\nantong\690+AD+74HC164   11.10\690.sym
+Folder=Output
+DeviceName=PIC16F690
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC\9.83\bin\picc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|MAIN.c|ADC.c|TIME.c|EEPROM.c|74HC164.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=31 DB=0 DC=9 DF=0 DD=1 C2=0 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 C9=3
+TraceCmdString=
+DebugOptions=
+[File022]
+Location=F:\PIC project\nantong\690+AD+74HC164   11.10\690.map
+Folder=Output
+DeviceName=PIC16F690
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC\9.83\bin\picc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|MAIN.c|ADC.c|TIME.c|EEPROM.c|74HC164.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=31 DB=0 DC=9 DF=0 DD=1 C2=0 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 C9=3
+TraceCmdString=
+DebugOptions=
+[File023]
+Location=F:\PIC project\nantong\690+AD+74HC164   11.10\690.hxl
+Folder=Output
+DeviceName=PIC16F690
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC\9.83\bin\picc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|MAIN.c|ADC.c|TIME.c|EEPROM.c|74HC164.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=31 DB=0 DC=9 DF=0 DD=1 C2=0 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 C9=3
+TraceCmdString=
+DebugOptions=
+[File024]
+Location=F:\PIC project\nantong\690+AD+74HC164   11.10\startup.lst
+Folder=Output
+DeviceName=PIC16F690
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC\9.83\bin\picc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|MAIN.c|ADC.c|TIME.c|EEPROM.c|74HC164.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=31 DB=0 DC=9 DF=0 DD=1 C2=0 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 C9=3
+TraceCmdString=
+DebugOptions=
+[File025]
+Location=F:\PIC project\nantong\690+AD+74HC164   11.10\startup.rlf
+Folder=Output
+DeviceName=PIC16F690
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC\9.83\bin\picc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|MAIN.c|ADC.c|TIME.c|EEPROM.c|74HC164.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=31 DB=0 DC=9 DF=0 DD=1 C2=0 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 C9=3
+TraceCmdString=
+DebugOptions=
+[File026]
+Location=F:\PIC project\nantong\690+AD+74HC164   11.10\doprnt.p1
+Folder=Output
+DeviceName=PIC16F690
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC\9.83\bin\picc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|MAIN.c|ADC.c|TIME.c|EEPROM.c|74HC164.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=31 DB=0 DC=9 DF=0 DD=1 C2=0 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 C9=3
+TraceCmdString=
+DebugOptions=
+[File027]
+Location=F:\PIC project\nantong\690+AD+74HC164   11.10\doprnt.pre
+Folder=Output
+DeviceName=PIC16F690
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC\9.83\bin\picc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|MAIN.c|ADC.c|TIME.c|EEPROM.c|74HC164.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=31 DB=0 DC=9 DF=0 DD=1 C2=0 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 C9=3
+TraceCmdString=
+DebugOptions=
+[File028]
+Location=F:\PIC project\nantong\690+AD+74HC164   11.10\690.obj
+Folder=Output
+DeviceName=PIC16F690
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC\9.83\bin\picc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|MAIN.c|ADC.c|TIME.c|EEPROM.c|74HC164.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=31 DB=0 DC=9 DF=0 DD=1 C2=0 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 C9=3
+TraceCmdString=
+DebugOptions=
+[File029]
+Location=F:\PIC project\nantong\690+AD+74HC164   11.10\690.lst
+Folder=Output
+DeviceName=PIC16F690
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC\9.83\bin\picc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|MAIN.c|ADC.c|TIME.c|EEPROM.c|74HC164.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=31 DB=0 DC=9 DF=0 DD=1 C2=0 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 C9=3
+TraceCmdString=
+DebugOptions=
+[File030]
+Location=F:\PIC project\nantong\690+AD+74HC164   11.10\690.rlf
+Folder=Output
+DeviceName=PIC16F690
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC\9.83\bin\picc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|MAIN.c|ADC.c|TIME.c|EEPROM.c|74HC164.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=31 DB=0 DC=9 DF=0 DD=1 C2=0 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 C9=3
+TraceCmdString=
+DebugOptions=
+[File031]
+Location=F:\PIC project\nantong\690+AD+74HC164   11.10\690.sdb
+Folder=Output
+DeviceName=PIC16F690
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC\9.83\bin\picc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|MAIN.c|ADC.c|TIME.c|EEPROM.c|74HC164.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=31 DB=0 DC=9 DF=0 DD=1 C2=0 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 C9=3
+TraceCmdString=
+DebugOptions=
